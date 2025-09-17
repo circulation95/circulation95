@@ -1,4 +1,4 @@
 # circulation95
  
 ### BaekJoon
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wangsh6)
+[![Solved.ac wangsh6](http://mazassumnida.wtf/api/v2/generate_badge?boj=wangsh6)](https://solved.ac/wangsh6)
